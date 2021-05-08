@@ -10,13 +10,13 @@
   background: #ffffff;
 }
 .section1 {
-  width: 100%;
+  width: 1200px;
   height: 709px;
   display: block;
   position: relative;
   left: auto;
   top: auto;
-  min-width: 0;
+  align-self: center;
   flex-shrink: 0;
 }
 .rectangle419 {
@@ -58,7 +58,7 @@
   position: absolute;
   top: 207px;
   left: 375px;
-  width: 570px;
+  width: 566px;
   height: 214px;
 }
 .box__nYkuy {
@@ -69,8 +69,8 @@
   letter-spacing: 0em;
   color: rgba(40, 40, 40, 1);
   position: absolute;
-  top: 28px;
-  left: 375px;
+  top: 0;
+  left: 0;
 }
 .group192 {
   width: 211px;

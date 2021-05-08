@@ -64,21 +64,18 @@ function PlasmicHomepage__RenderFunc(props) {
             data-plasmic-override={overrides.section1}
             className={classNames(defaultcss.all, sty.section1)}
           >
-            {false ? (
-              <div
-                data-plasmic-name={"rectangle419"}
-                data-plasmic-override={overrides.rectangle419}
-                className={classNames(defaultcss.all, sty.rectangle419)}
-              />
-            ) : null}
-            {false ? (
-              <img
-                alt={""}
-                className={classNames(defaultcss.img, sty.img__uUbgj)}
-                role={"img"}
-                src={"/plasmic/kartik_portfolio/images/ellipse165.svg"}
-              />
-            ) : null}
+            <div
+              data-plasmic-name={"rectangle419"}
+              data-plasmic-override={overrides.rectangle419}
+              className={classNames(defaultcss.all, sty.rectangle419)}
+            />
+
+            <img
+              alt={""}
+              className={classNames(defaultcss.img, sty.img__uUbgj)}
+              role={"img"}
+              src={"/plasmic/kartik_portfolio/images/ellipse165.svg"}
+            />
 
             <div
               data-plasmic-name={"_2D406C1010845191"}
