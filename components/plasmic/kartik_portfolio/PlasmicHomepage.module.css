@@ -4,24 +4,20 @@
   flex-direction: column;
   width: 100%;
   height: 100%;
+  justify-content: flex-start;
   min-width: 0;
   min-height: 0;
   background: #ffffff;
 }
-.figmaPaste {
+.section1 {
+  width: 100%;
+  height: 709px;
   display: block;
   position: relative;
-  width: 1920px;
-  height: 941px;
+  left: auto;
+  top: auto;
+  min-width: 0;
   flex-shrink: 0;
-}
-.section1 {
-  width: 1920px;
-  height: 930px;
-  display: block;
-  position: absolute;
-  left: 0px;
-  top: 0px;
 }
 .rectangle419 {
   width: 1920px;
@@ -268,20 +264,23 @@
   left: 653px;
 }
 .section2 {
-  width: 1171px;
   height: 182px;
   display: block;
-  position: absolute;
-  left: 374px;
-  top: 759px;
+  position: relative;
+  left: auto;
+  top: auto;
+  width: 1231px;
+  align-self: center;
+  flex-shrink: 0;
 }
 .rectangle421 {
-  width: 1171px;
+  width: 100%;
   height: 182px;
   display: block;
   position: absolute;
   top: 0px;
   left: 0px;
+  min-width: 0;
   background: rgba(248, 242, 244, 1);
 }
 .rectangle422 {

@@ -60,255 +60,249 @@ function PlasmicHomepage__RenderFunc(props) {
           )}
         >
           <div
-            data-plasmic-name={"figmaPaste"}
-            data-plasmic-override={overrides.figmaPaste}
-            className={classNames(defaultcss.all, sty.figmaPaste)}
+            data-plasmic-name={"section1"}
+            data-plasmic-override={overrides.section1}
+            className={classNames(defaultcss.all, sty.section1)}
           >
-            <div
-              data-plasmic-name={"section1"}
-              data-plasmic-override={overrides.section1}
-              className={classNames(defaultcss.all, sty.section1)}
-            >
-              {false ? (
-                <div
-                  data-plasmic-name={"rectangle419"}
-                  data-plasmic-override={overrides.rectangle419}
-                  className={classNames(defaultcss.all, sty.rectangle419)}
-                />
-              ) : null}
-              {false ? (
-                <img
-                  alt={""}
-                  className={classNames(defaultcss.img, sty.img__uUbgj)}
-                  role={"img"}
-                  src={"/plasmic/kartik_portfolio/images/ellipse165.svg"}
-                />
-              ) : null}
-
+            {false ? (
               <div
-                data-plasmic-name={"_2D406C1010845191"}
-                data-plasmic-override={overrides._2D406C1010845191}
-                className={classNames(defaultcss.all, sty._2D406C1010845191)}
+                data-plasmic-name={"rectangle419"}
+                data-plasmic-override={overrides.rectangle419}
+                className={classNames(defaultcss.all, sty.rectangle419)}
+              />
+            ) : null}
+            {false ? (
+              <img
+                alt={""}
+                className={classNames(defaultcss.img, sty.img__uUbgj)}
+                role={"img"}
+                src={"/plasmic/kartik_portfolio/images/ellipse165.svg"}
+              />
+            ) : null}
+
+            <div
+              data-plasmic-name={"_2D406C1010845191"}
+              data-plasmic-override={overrides._2D406C1010845191}
+              className={classNames(defaultcss.all, sty._2D406C1010845191)}
+            />
+
+            <div
+              data-plasmic-name={"helloImMarlonSimonUxUiDesigner"}
+              data-plasmic-override={overrides.helloImMarlonSimonUxUiDesigner}
+              className={classNames(
+                defaultcss.all,
+                defaultcss.__wab_text,
+                sty.helloImMarlonSimonUxUiDesigner
+              )}
+            >
+              {"Hello,I'm\r\nMarlon Simon\r\nUX-UI Designer\n"}
+            </div>
+
+            <div
+              className={classNames(
+                defaultcss.all,
+                defaultcss.__wab_text,
+                sty.box__nYkuy
+              )}
+            >
+              {"Marsi."}
+            </div>
+
+            <div
+              data-plasmic-name={"group192"}
+              data-plasmic-override={overrides.group192}
+              className={classNames(defaultcss.all, sty.group192)}
+            >
+              <div
+                data-plasmic-name={"dribbleBehince"}
+                data-plasmic-override={overrides.dribbleBehince}
+                className={classNames(
+                  defaultcss.all,
+                  defaultcss.__wab_text,
+                  sty.dribbleBehince
+                )}
+              >
+                {"Dribble                 Behince "}
+              </div>
+
+              <Basketball1Icon
+                className={classNames(defaultcss.all, sty.svg__giUb)}
+                role={"img"}
               />
 
               <div
-                data-plasmic-name={"helloImMarlonSimonUxUiDesigner"}
-                data-plasmic-override={overrides.helloImMarlonSimonUxUiDesigner}
-                className={classNames(
-                  defaultcss.all,
-                  defaultcss.__wab_text,
-                  sty.helloImMarlonSimonUxUiDesigner
-                )}
-              >
-                {"Hello,I'm\r\nMarlon Simon\r\nUX-UI Designer\n"}
-              </div>
-
-              <div
-                className={classNames(
-                  defaultcss.all,
-                  defaultcss.__wab_text,
-                  sty.box__nYkuy
-                )}
-              >
-                {"Marsi."}
-              </div>
-
-              <div
-                data-plasmic-name={"group192"}
-                data-plasmic-override={overrides.group192}
-                className={classNames(defaultcss.all, sty.group192)}
+                data-plasmic-name={"behance1"}
+                data-plasmic-override={overrides.behance1}
+                className={classNames(defaultcss.all, sty.behance1)}
               >
                 <div
-                  data-plasmic-name={"dribbleBehince"}
-                  data-plasmic-override={overrides.dribbleBehince}
-                  className={classNames(
-                    defaultcss.all,
-                    defaultcss.__wab_text,
-                    sty.dribbleBehince
-                  )}
-                >
-                  {"Dribble                 Behince "}
-                </div>
-
-                <Basketball1Icon
-                  className={classNames(defaultcss.all, sty.svg__giUb)}
-                  role={"img"}
-                />
-
-                <div
-                  data-plasmic-name={"behance1"}
-                  data-plasmic-override={overrides.behance1}
-                  className={classNames(defaultcss.all, sty.behance1)}
+                  data-plasmic-name={"group"}
+                  data-plasmic-override={overrides.group}
+                  className={classNames(defaultcss.all, sty.group)}
                 >
                   <div
-                    data-plasmic-name={"group"}
-                    data-plasmic-override={overrides.group}
-                    className={classNames(defaultcss.all, sty.group)}
+                    data-plasmic-name={"group2"}
+                    data-plasmic-override={overrides.group2}
+                    className={classNames(defaultcss.all, sty.group2)}
                   >
-                    <div
-                      data-plasmic-name={"group2"}
-                      data-plasmic-override={overrides.group2}
-                      className={classNames(defaultcss.all, sty.group2)}
-                    >
-                      <GroupIcon
-                        className={classNames(defaultcss.all, sty.svg___3L4J)}
-                        role={"img"}
-                      />
-                    </div>
+                    <GroupIcon
+                      className={classNames(defaultcss.all, sty.svg___3L4J)}
+                      role={"img"}
+                    />
                   </div>
                 </div>
               </div>
+            </div>
 
-              <Group191Icon
-                className={classNames(defaultcss.all, sty.svg__tXmsa)}
+            <Group191Icon
+              className={classNames(defaultcss.all, sty.svg__tXmsa)}
+              role={"img"}
+            />
+
+            <div
+              className={classNames(
+                defaultcss.all,
+                defaultcss.__wab_text,
+                sty.box__idHw
+              )}
+            >
+              {"Download Resum"}
+            </div>
+
+            <Line104Icon
+              className={classNames(defaultcss.all, sty.svg__zyybo)}
+              role={"img"}
+            />
+
+            <img
+              alt={""}
+              className={classNames(defaultcss.img, sty.img__zdrIx)}
+              role={"img"}
+              src={"/plasmic/kartik_portfolio/images/cube1.svg"}
+            />
+
+            <img
+              alt={""}
+              className={classNames(defaultcss.img, sty.img__xiJfk)}
+              role={"img"}
+              src={"/plasmic/kartik_portfolio/images/cube2.svg"}
+            />
+
+            <img
+              alt={""}
+              className={classNames(defaultcss.img, sty.img__hbOwn)}
+              role={"img"}
+              src={"/plasmic/kartik_portfolio/images/cube3.svg"}
+            />
+
+            <div
+              data-plasmic-name={"group193"}
+              data-plasmic-override={overrides.group193}
+              className={classNames(defaultcss.all, sty.group193)}
+            >
+              <Ellipse166Icon
+                className={classNames(defaultcss.all, sty.svg__lf3K)}
                 role={"img"}
               />
 
               <div
-                className={classNames(
-                  defaultcss.all,
-                  defaultcss.__wab_text,
-                  sty.box__idHw
-                )}
-              >
-                {"Download Resum"}
-              </div>
-
-              <Line104Icon
-                className={classNames(defaultcss.all, sty.svg__zyybo)}
-                role={"img"}
-              />
-
-              <img
-                alt={""}
-                className={classNames(defaultcss.img, sty.img__zdrIx)}
-                role={"img"}
-                src={"/plasmic/kartik_portfolio/images/cube1.svg"}
-              />
-
-              <img
-                alt={""}
-                className={classNames(defaultcss.img, sty.img__xiJfk)}
-                role={"img"}
-                src={"/plasmic/kartik_portfolio/images/cube2.svg"}
-              />
-
-              <img
-                alt={""}
-                className={classNames(defaultcss.img, sty.img__hbOwn)}
-                role={"img"}
-                src={"/plasmic/kartik_portfolio/images/cube3.svg"}
-              />
-
-              <div
-                data-plasmic-name={"group193"}
-                data-plasmic-override={overrides.group193}
-                className={classNames(defaultcss.all, sty.group193)}
-              >
-                <Ellipse166Icon
-                  className={classNames(defaultcss.all, sty.svg__lf3K)}
-                  role={"img"}
-                />
-
-                <div
-                  data-plasmic-name={"rectangle420"}
-                  data-plasmic-override={overrides.rectangle420}
-                  className={classNames(defaultcss.all, sty.rectangle420)}
-                />
-              </div>
-
-              <div
-                className={classNames(
-                  defaultcss.all,
-                  defaultcss.__wab_text,
-                  sty.box__qk76X
-                )}
-              >
-                {"Scrol Down"}
-              </div>
-
-              <Ellipse167Icon
-                className={classNames(defaultcss.all, sty.svg__rCokL)}
-                role={"img"}
-              />
-
-              <Ellipse168Icon
-                className={classNames(defaultcss.all, sty.svg__yYPpN)}
-                role={"img"}
+                data-plasmic-name={"rectangle420"}
+                data-plasmic-override={overrides.rectangle420}
+                className={classNames(defaultcss.all, sty.rectangle420)}
               />
             </div>
 
             <div
-              data-plasmic-name={"section2"}
-              data-plasmic-override={overrides.section2}
-              className={classNames(defaultcss.all, sty.section2)}
+              className={classNames(
+                defaultcss.all,
+                defaultcss.__wab_text,
+                sty.box__qk76X
+              )}
             >
-              <div
-                data-plasmic-name={"rectangle421"}
-                data-plasmic-override={overrides.rectangle421}
-                className={classNames(defaultcss.all, sty.rectangle421)}
-              />
-
-              <div
-                data-plasmic-name={"rectangle422"}
-                data-plasmic-override={overrides.rectangle422}
-                className={classNames(defaultcss.all, sty.rectangle422)}
-              />
-
-              <div
-                data-plasmic-name={"newsletter"}
-                data-plasmic-override={overrides.newsletter}
-                className={classNames(
-                  defaultcss.all,
-                  defaultcss.__wab_text,
-                  sty.newsletter
-                )}
-              >
-                {"Newsletter\r\n"}
-              </div>
-
-              <div
-                className={classNames(
-                  defaultcss.all,
-                  defaultcss.__wab_text,
-                  sty.box__xE1H8
-                )}
-              >
-                {
-                  "Mauris aliquet egestas metus, \nid pellentesque mauris tincidunt."
-                }
-              </div>
-
-              <div
-                className={classNames(
-                  defaultcss.all,
-                  defaultcss.__wab_text,
-                  sty.box__h052D
-                )}
-              >
-                {"Enter Your mail"}
-              </div>
-
-              <div
-                className={classNames(
-                  defaultcss.all,
-                  defaultcss.__wab_text,
-                  sty.box__qngPc
-                )}
-              >
-                {"Subcrib Now"}
-              </div>
-
-              <Vector38Icon
-                className={classNames(defaultcss.all, sty.svg__q7Mo)}
-                role={"img"}
-              />
-
-              <Vector38Icon
-                className={classNames(defaultcss.all, sty.svg__fKhIw)}
-                role={"img"}
-              />
+              {"Scrol Down"}
             </div>
+
+            <Ellipse167Icon
+              className={classNames(defaultcss.all, sty.svg__rCokL)}
+              role={"img"}
+            />
+
+            <Ellipse168Icon
+              className={classNames(defaultcss.all, sty.svg__yYPpN)}
+              role={"img"}
+            />
+          </div>
+
+          <div
+            data-plasmic-name={"section2"}
+            data-plasmic-override={overrides.section2}
+            className={classNames(defaultcss.all, sty.section2)}
+          >
+            <div
+              data-plasmic-name={"rectangle421"}
+              data-plasmic-override={overrides.rectangle421}
+              className={classNames(defaultcss.all, sty.rectangle421)}
+            />
+
+            <div
+              data-plasmic-name={"rectangle422"}
+              data-plasmic-override={overrides.rectangle422}
+              className={classNames(defaultcss.all, sty.rectangle422)}
+            />
+
+            <div
+              data-plasmic-name={"newsletter"}
+              data-plasmic-override={overrides.newsletter}
+              className={classNames(
+                defaultcss.all,
+                defaultcss.__wab_text,
+                sty.newsletter
+              )}
+            >
+              {"Newsletter\r\n"}
+            </div>
+
+            <div
+              className={classNames(
+                defaultcss.all,
+                defaultcss.__wab_text,
+                sty.box__xE1H8
+              )}
+            >
+              {
+                "Mauris aliquet egestas metus, \nid pellentesque mauris tincidunt."
+              }
+            </div>
+
+            <div
+              className={classNames(
+                defaultcss.all,
+                defaultcss.__wab_text,
+                sty.box__h052D
+              )}
+            >
+              {"Enter Your mail"}
+            </div>
+
+            <div
+              className={classNames(
+                defaultcss.all,
+                defaultcss.__wab_text,
+                sty.box__qngPc
+              )}
+            >
+              {"Subcrib Now"}
+            </div>
+
+            <Vector38Icon
+              className={classNames(defaultcss.all, sty.svg__q7Mo)}
+              role={"img"}
+            />
+
+            <Vector38Icon
+              className={classNames(defaultcss.all, sty.svg__fKhIw)}
+              role={"img"}
+            />
           </div>
         </div>
       </div>
@@ -319,26 +313,6 @@ function PlasmicHomepage__RenderFunc(props) {
 const PlasmicDescendants = {
   root: [
     "root",
-    "figmaPaste",
-    "section1",
-    "rectangle419",
-    "_2D406C1010845191",
-    "helloImMarlonSimonUxUiDesigner",
-    "group192",
-    "dribbleBehince",
-    "behance1",
-    "group",
-    "group2",
-    "group193",
-    "rectangle420",
-    "section2",
-    "rectangle421",
-    "rectangle422",
-    "newsletter"
-  ],
-
-  figmaPaste: [
-    "figmaPaste",
     "section1",
     "rectangle419",
     "_2D406C1010845191",
@@ -417,7 +391,6 @@ export const PlasmicHomepage = Object.assign(
   makeNodeComponent("root"),
   {
     // Helper components rendering sub-elements
-    figmaPaste: makeNodeComponent("figmaPaste"),
     section1: makeNodeComponent("section1"),
     rectangle419: makeNodeComponent("rectangle419"),
     _2D406C1010845191: makeNodeComponent("_2D406C1010845191"),
