@@ -1,0 +1,130 @@
+{
+  "platform": "nextjs",
+  "code": {
+    "lang": "js",
+    "scheme": "blackbox"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+  },
+  "images": {
+    "scheme": "public-files",
+    "publicDir": "../public",
+    "publicUrlPrefix": "/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "2mqA18vU3vkpw8fmHw7GP9",
+      "projectName": "Kartik Portfolio",
+      "version": "latest",
+      "cssFilePath": "plasmic/kartik_portfolio/plasmic_kartik_portfolio.module.css",
+      "components": [
+        {
+          "id": "hGw_PBzTluaE",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "2mqA18vU3vkpw8fmHw7GP9",
+          "renderModuleFilePath": "plasmic/kartik_portfolio/PlasmicHomepage.jsx",
+          "importSpec": {
+            "modulePath": "../pages/index.jsx"
+          },
+          "cssFilePath": "plasmic/kartik_portfolio/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        }
+      ],
+      "icons": [
+        {
+          "id": "T7cvxSOaM6",
+          "name": "Vector38Icon",
+          "moduleFilePath": "plasmic/kartik_portfolio/icons/PlasmicIcon__Vector38.jsx"
+        },
+        {
+          "id": "vdXgM7ScCMI",
+          "name": "Basketball1Icon",
+          "moduleFilePath": "plasmic/kartik_portfolio/icons/PlasmicIcon__Basketball1.jsx"
+        },
+        {
+          "id": "DcB5oEDtQz9",
+          "name": "GroupIcon",
+          "moduleFilePath": "plasmic/kartik_portfolio/icons/PlasmicIcon__Group.jsx"
+        },
+        {
+          "id": "znruXwAJg96",
+          "name": "Group191Icon",
+          "moduleFilePath": "plasmic/kartik_portfolio/icons/PlasmicIcon__Group191.jsx"
+        },
+        {
+          "id": "0BWX4kgY0fD",
+          "name": "Line104Icon",
+          "moduleFilePath": "plasmic/kartik_portfolio/icons/PlasmicIcon__Line104.jsx"
+        },
+        {
+          "id": "rJWeaOL-dq5",
+          "name": "Ellipse166Icon",
+          "moduleFilePath": "plasmic/kartik_portfolio/icons/PlasmicIcon__Ellipse166.jsx"
+        },
+        {
+          "id": "DnxiLItfZc1",
+          "name": "Ellipse167Icon",
+          "moduleFilePath": "plasmic/kartik_portfolio/icons/PlasmicIcon__Ellipse167.jsx"
+        },
+        {
+          "id": "uv1e117DCtO",
+          "name": "Ellipse168Icon",
+          "moduleFilePath": "plasmic/kartik_portfolio/icons/PlasmicIcon__Ellipse168.jsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "Q2H8UB_OI",
+          "name": "2d406c101084519 1",
+          "filePath": "../public/plasmic/kartik_portfolio/images/_2D406C1010845191.png"
+        },
+        {
+          "id": "1ZTP3-lWhA",
+          "name": "Ellipse 165",
+          "filePath": "../public/plasmic/kartik_portfolio/images/ellipse165.svg"
+        },
+        {
+          "id": "6c9C7wVUC3t",
+          "name": "cube 1",
+          "filePath": "../public/plasmic/kartik_portfolio/images/cube1.svg"
+        },
+        {
+          "id": "nBMsR6NWK6i",
+          "name": "cube 2",
+          "filePath": "../public/plasmic/kartik_portfolio/images/cube2.svg"
+        },
+        {
+          "id": "zzm_TiWI_li",
+          "name": "cube 3",
+          "filePath": "../public/plasmic/kartik_portfolio/images/cube3.svg"
+        }
+      ],
+      "projectApiToken": "OnysKiolcT8WvyZ0geDVvGWr0SMDqIzsv3cuuHx9TDMt5Ua56KtNcuXzdKk2i9lNa1cUgsN9GFiazHHkRQ"
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "98j3jTzCDnjj",
+        "name": "Screen",
+        "projectId": "2mqA18vU3vkpw8fmHw7GP9",
+        "contextFilePath": "plasmic/kartik_portfolio/PlasmicGlobalVariant__Screen.jsx"
+      }
+    ]
+  },
+  "nextjsConfig": {
+    "pagesDir": "../pages"
+  },
+  "cliVersion": "0.1.145",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.145/dist/plasmic.schema.json"
+}
