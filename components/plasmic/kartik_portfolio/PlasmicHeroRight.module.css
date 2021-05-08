@@ -1,0 +1,27 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  position: relative;
+}
+._2D406C1010845191 {
+  width: 589px;
+  height: 625px;
+  display: block;
+  flex-shrink: 0;
+  background: url("/plasmic/kartik_portfolio/images/_2D406C1010845191.png") center center / cover no-repeat padding-box
+    border-box scroll;
+}
+.img {
+  position: relative;
+  object-fit: cover;
+  width: 629px;
+  height: 109px;
+  box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
+  opacity: 0.5;
+  display: block;
+  top: auto;
+  left: auto;
+  flex-shrink: 0;
+}

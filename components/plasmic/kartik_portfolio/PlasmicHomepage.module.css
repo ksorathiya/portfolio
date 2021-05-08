@@ -9,167 +9,27 @@
   min-height: 0;
   background: #ffffff;
 }
-.section1 {
-  width: 1200px;
-  height: 709px;
+.heroSection {
+  width: 100%;
+  height: 100%;
   display: block;
   position: relative;
   left: auto;
   top: auto;
   align-self: center;
-  flex-shrink: 0;
+  min-width: 0;
+  min-height: 0;
+  background: #e2f7fa;
 }
-.rectangle419 {
-  width: 1920px;
-  height: 930px;
-  display: block;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  background: rgba(243, 250, 255, 1);
-}
-.img__uUbgj {
-  position: absolute;
-  object-fit: cover;
-  width: 629px;
-  height: 109px;
-  box-shadow: inset 0px 0px 0px 1px rgba(255, 255, 255, 1);
-  opacity: 0.5;
-  display: block;
-  top: 531px;
-  left: 974px;
-}
-._2D406C1010845191 {
-  width: 589px;
-  height: 625px;
-  display: block;
+.heroRight:global(.__wab_instance) {
   position: absolute;
   top: 19px;
   left: 999px;
-  background: url("/plasmic/kartik_portfolio/images/_2D406C1010845191.png") center center / cover no-repeat padding-box
-    border-box scroll;
 }
-.helloImMarlonSimonUxUiDesigner {
-  display: block;
-  font-size: 48px;
-  font-family: "Poppins";
-  font-weight: 700;
-  letter-spacing: 0em;
+.heroLeft:global(.__wab_instance) {
   position: absolute;
   top: 207px;
   left: 375px;
-  width: 566px;
-  height: 214px;
-}
-.box__nYkuy {
-  display: block;
-  font-size: 30px;
-  font-family: "Poppins";
-  font-weight: 700;
-  letter-spacing: 0em;
-  color: rgba(40, 40, 40, 1);
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-.group192 {
-  width: 211px;
-  height: 24px;
-  display: block;
-  position: absolute;
-  top: 39px;
-  left: 657px;
-}
-.dribbleBehince {
-  display: block;
-  font-size: 16px;
-  font-family: "Poppins";
-  font-weight: 400;
-  letter-spacing: 0em;
-  position: absolute;
-  top: 2px;
-  left: 18px;
-  width: 242px;
-}
-.svg__giUb {
-  position: absolute;
-  object-fit: cover;
-  width: 14px;
-  height: 14px;
-  color: #ff4c60;
-  display: block;
-  top: 6px;
-  left: 0px;
-  overflow: hidden;
-}
-.behance1 {
-  width: 14px;
-  height: 14px;
-  display: block;
-  position: absolute;
-  top: 6px;
-  left: 124px;
-  overflow: hidden;
-}
-.group {
-  transform: translate(0.002px, -0.001px);
-  width: 14px;
-  height: 14px;
-  display: block;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-}
-.group2 {
-  width: 14px;
-  height: 14px;
-  display: block;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-}
-.svg___3L4J {
-  position: absolute;
-  object-fit: cover;
-  width: 13.998px;
-  height: 14px;
-  color: #282828;
-  display: block;
-  top: 0px;
-  left: 0px;
-}
-.svg__tXmsa {
-  position: absolute;
-  object-fit: cover;
-  width: 38px;
-  height: 19px;
-  color: #282828;
-  display: block;
-  top: 45px;
-  left: 1507px;
-}
-.box__idHw {
-  display: block;
-  font-size: 16px;
-  font-family: "Poppins";
-  font-weight: 400;
-  letter-spacing: 0em;
-  color: rgba(40, 40, 40, 1);
-  position: absolute;
-  top: 435px;
-  left: 375px;
-}
-.svg__zyybo {
-  position: absolute;
-  object-fit: cover;
-  width: 106px;
-  color: #282828;
-  box-shadow: 0px 0px 0px 0.5px rgba(40, 40, 40, 1),
-    inset 0px 0px 0px 0.5px rgba(40, 40, 40, 1);
-  height: 0px;
-  display: block;
-  top: 449px;
-  left: 534px;
 }
 .img__zdrIx {
   position: absolute;
@@ -201,46 +61,6 @@
   left: 996px;
   overflow: hidden;
 }
-.group193 {
-  width: 56px;
-  height: 56px;
-  display: block;
-  position: absolute;
-  top: 527px;
-  left: 378px;
-}
-.svg__lf3K {
-  position: absolute;
-  object-fit: cover;
-  width: 56px;
-  height: 56px;
-  color: #fff;
-  box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.15);
-  display: block;
-  top: 0px;
-  left: 0px;
-}
-.rectangle420 {
-  box-shadow: inset 0px 0px 0px 1px rgba(40, 40, 40, 1);
-  width: 17px;
-  height: 21px;
-  display: block;
-  position: absolute;
-  top: 18px;
-  left: 20px;
-  border-radius: 100px;
-}
-.box__qk76X {
-  display: block;
-  font-size: 12px;
-  font-family: "Poppins";
-  font-weight: 400;
-  letter-spacing: 0em;
-  color: rgba(40, 40, 40, 1);
-  position: absolute;
-  top: 546px;
-  left: 448px;
-}
 .svg__rCokL {
   position: absolute;
   object-fit: cover;
@@ -262,107 +82,4 @@
   display: block;
   top: 164px;
   left: 653px;
-}
-.section2 {
-  height: 182px;
-  display: block;
-  position: relative;
-  left: auto;
-  top: auto;
-  width: 1231px;
-  align-self: center;
-  flex-shrink: 0;
-}
-.rectangle421 {
-  width: 100%;
-  height: 182px;
-  display: block;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  min-width: 0;
-  background: rgba(248, 242, 244, 1);
-}
-.rectangle422 {
-  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
-  width: 570px;
-  height: 98px;
-  display: block;
-  position: absolute;
-  top: 42px;
-  left: 501px;
-  background: rgba(255, 249, 249, 1);
-}
-.newsletter {
-  display: block;
-  font-size: 30px;
-  font-family: "Poppins";
-  font-weight: 700;
-  letter-spacing: 0em;
-  color: rgba(40, 40, 40, 1);
-  position: absolute;
-  top: 42px;
-  left: 154px;
-  width: 169px;
-  height: 40px;
-}
-.box__xE1H8 {
-  display: block;
-  font-size: 16px;
-  text-align: center;
-  font-family: "Poppins";
-  font-weight: 400;
-  letter-spacing: 0em;
-  line-height: 26px;
-  color: rgba(195, 195, 195, 1);
-  position: absolute;
-  top: 89px;
-  left: 95px;
-  width: 291px;
-}
-.box__h052D {
-  display: block;
-  font-size: 16px;
-  font-family: "Poppins";
-  font-weight: 400;
-  letter-spacing: 0em;
-  color: rgba(195, 195, 195, 1);
-  position: absolute;
-  top: 79px;
-  left: 551px;
-}
-.box__qngPc {
-  display: block;
-  font-size: 16px;
-  font-family: "Poppins";
-  font-weight: 400;
-  letter-spacing: 0em;
-  color: rgba(40, 40, 40, 1);
-  position: absolute;
-  top: 80px;
-  left: 902px;
-}
-.svg__q7Mo {
-  position: absolute;
-  object-fit: cover;
-  width: 8px;
-  height: 17px;
-  color: #282828;
-  box-shadow: 0px 0px 0px 0.5px rgba(40, 40, 40, 1),
-    inset 0px 0px 0px 0.5px rgba(40, 40, 40, 1);
-  display: block;
-  top: 86px;
-  left: 1011px;
-}
-.svg__fKhIw {
-  position: absolute;
-  object-fit: cover;
-  width: 8px;
-  height: 17px;
-  color: #282828;
-  box-shadow: 0px 0px 0px 0.5px rgba(40, 40, 40, 1),
-    inset 0px 0px 0px 0.5px rgba(40, 40, 40, 1);
-  display: block;
-  top: 86px;
-  left: 1019px;
 }

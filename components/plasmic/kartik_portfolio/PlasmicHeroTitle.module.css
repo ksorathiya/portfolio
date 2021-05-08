@@ -1,0 +1,10 @@
+.root {
+  display: block;
+  font-size: 48px;
+  font-family: "Poppins";
+  font-weight: 700;
+  letter-spacing: 0em;
+  width: 566px;
+  height: 214px;
+  position: relative;
+}

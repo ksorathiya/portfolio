@@ -38,6 +38,58 @@
           "cssFilePath": "plasmic/kartik_portfolio/PlasmicHomepage.module.css",
           "scheme": "blackbox",
           "componentType": "page"
+        },
+        {
+          "id": "PgYjHEPsSD",
+          "name": "HeroRight",
+          "type": "managed",
+          "projectId": "2mqA18vU3vkpw8fmHw7GP9",
+          "renderModuleFilePath": "plasmic/kartik_portfolio/PlasmicHeroRight.jsx",
+          "importSpec": {
+            "modulePath": "HeroRight.jsx"
+          },
+          "cssFilePath": "plasmic/kartik_portfolio/PlasmicHeroRight.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "NP_waT9R6b",
+          "name": "HeroTitle",
+          "type": "managed",
+          "projectId": "2mqA18vU3vkpw8fmHw7GP9",
+          "renderModuleFilePath": "plasmic/kartik_portfolio/PlasmicHeroTitle.jsx",
+          "importSpec": {
+            "modulePath": "HeroTitle.jsx"
+          },
+          "cssFilePath": "plasmic/kartik_portfolio/PlasmicHeroTitle.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "K8JtqehUC4",
+          "name": "HeroLink",
+          "type": "managed",
+          "projectId": "2mqA18vU3vkpw8fmHw7GP9",
+          "renderModuleFilePath": "plasmic/kartik_portfolio/PlasmicHeroLink.jsx",
+          "importSpec": {
+            "modulePath": "HeroLink.jsx"
+          },
+          "cssFilePath": "plasmic/kartik_portfolio/PlasmicHeroLink.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "eoyJGYKoNK",
+          "name": "HeroLeft",
+          "type": "managed",
+          "projectId": "2mqA18vU3vkpw8fmHw7GP9",
+          "renderModuleFilePath": "plasmic/kartik_portfolio/PlasmicHeroLeft.jsx",
+          "importSpec": {
+            "modulePath": "HeroLeft.jsx"
+          },
+          "cssFilePath": "plasmic/kartik_portfolio/PlasmicHeroLeft.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
         }
       ],
       "icons": [
